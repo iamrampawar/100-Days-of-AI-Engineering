@@ -1,0 +1,5 @@
+Student = ("Ram",20,"Computer Engineering",8.5)
+print("Name :",Student[0])
+print("Age :", Student[1])
+print("Branch :", Student[2])
+print("CGPA :", Student[3])
