@@ -1,4 +1,4 @@
-print("==== Reading a File ====")
+print("===== Reading a File =====")
 
 file = open("notes.txt", "r")
 

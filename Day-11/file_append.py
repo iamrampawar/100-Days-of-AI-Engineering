@@ -1,12 +1,9 @@
-print("====Apending Daya====")
+print("===== Appending Data =====")
 
-file = open("Student.txt", "a")
+file = open("student.txt", "a")
 
-file.write("College : Goverment College of Engineering \n")
-
-file.write("City : Chhatrapati Sambhajinagar \n")
+file.write("College: Government College of Engineering\n")
 
 file.close()
 
 print("Data appended successfully.")
-

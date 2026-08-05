@@ -1,9 +1,9 @@
-print("==== File Handling In Python =====")
+print("===== File Handling in Python =====")
 
-print("Files are used to store data permanantly")
+print("Files are used to store data permanently.")
 
-print("\nExamples :")
+print("Examples:")
 print("- notes.txt")
-print("- student.txt")
+print("- students.txt")
 print("- data.csv")
-print("-report.pdf") 
+print("- report.pdf")

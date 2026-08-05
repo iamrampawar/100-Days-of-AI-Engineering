@@ -1,7 +1,6 @@
-print("==== Using With Statement ====")
+print("===== Using with Statement =====")
 
-with open("Student.txt","r") as file :
-    
+with open("student.txt", "r") as file:
     content = file.read()
 
-    print(content)
+print(content)
